@@ -16,9 +16,13 @@ This requires few parameters.
 4. Message
 
 
-Input all these values and you will get a valid response from the server.
+. Input all these values and you will get a valid response from the server.
+
 ![send-email-api](https://github.com/user-attachments/assets/c77dfcaa-88b4-409a-b989-8b6f89004bdc)
 
 
-Any wrong input will result to an error and you will get an error response from the server.
+. Any wrong input will result to an error and you will get an error response from the server.
+
 ![send-email-api-error](https://github.com/user-attachments/assets/5f7211c7-f0e4-4051-82e2-d401c1a500e9)
+
+Now you can get started with your api
